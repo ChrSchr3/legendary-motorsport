@@ -37,7 +37,7 @@ h1 {
 
 
 .item:hover {
-    background: #ef3f0e;
+    background: linear-gradient(120deg, #191919, #ff6a00a4, #191919);
 }
 
 .car-item-Pfister {
